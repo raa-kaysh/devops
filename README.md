@@ -1,6 +1,1 @@
-[Uploading UI&UX LAB.docx…]()
-
-
-pdf
-[UI&UX_LAB[1].pdf](https://github.com/user-attachments/files/17253230/UI.UX_LAB.1.pdf)
-
+[CS2503 ICS Lab Manual.pdf](https://github.com/user-attachments/files/17270859/CS2503.ICS.Lab.Manual.pdf)
